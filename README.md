@@ -5,7 +5,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <samp> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariumfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="mariumfaheem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaBhatti125&label=Profile%20views&color=0e75b6&style=flat" alt="hamzabhatti" /> </p>
 
 
 ### About Me 🚀
