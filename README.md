@@ -10,8 +10,8 @@
 
 ### About Me 🚀
 
-🎓 I’m an Data Science enthusiast & a MERN Stack Developer pursuing my Bachelors in Computer Systems Engineering. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br> 
+🎓 I’m a Computer System Engineer & a MERN Stack Developer </br>
+👨‍💻  I am passionate about Web Dev, DevOps & I enjoy learning new things. </br> 
 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/hamza-bhati"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 <!-- </samp> -->
@@ -19,9 +19,9 @@
 ### Skills 🎓
 - Expertise in JavaScript Especially in the <strong>MERN stack. </strong>
 - Knowledge of databases of both <strong>SQL NoSQL</strong> and their queries
-- Familiar with DevOps deployments inDocker as well and all its conceptstheoretically
-- Familiar with Python and its Webframeworks like Flask and Django
-- Currently, I am learning Data Science as welland have made expertise in Numpy andPandas and involved in ML and DeepLearning
+- Familiar with DevOps deployments in Docker as well as all its concepts theoretically
+- Familiar with Python and its Web frameworks like Flask and Django
+- Currently, I am learning Data Science as well and have made expertise in NumPy and Pandas, and involved in ML and DeepLearning
 - Familiar with the core concepts of NeuralNetworks and how AI works
 
 <h3>Languages I am currently playing around with:</h3>
